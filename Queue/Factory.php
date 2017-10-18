@@ -1,8 +1,8 @@
 <?php
 
-namespace PP\Component\Contracts\Queue;
+namespace Printplanet\Component\Contracts\Queue;
 
-use PP\Component\Queue\Type\QueueInterface;
+use Printplanet\Component\Queue\Type\QueueInterface;
 
 interface Factory
 {

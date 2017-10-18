@@ -1,6 +1,6 @@
 <?php
 
-namespace PP\Component\Contracts\Bus;
+namespace Printplanet\Component\Contracts\Bus;
 
 interface QueueingDispatcher extends Dispatcher
 {

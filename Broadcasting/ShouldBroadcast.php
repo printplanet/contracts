@@ -1,6 +1,6 @@
 <?php
 
-namespace PP\Component\Contracts\Broadcasting;
+namespace Printplanet\Component\Contracts\Broadcasting;
 
 interface ShouldBroadcast
 {
